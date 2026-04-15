@@ -5,7 +5,7 @@ If you discover issues, have ideas for improvements, or want to contribute a new
 ## Issue reporting
 
 * Check that the issue has not already been reported.
-* Check that the issue has not already been fixed in the latest code (a.k.a. `main`).
+* Check that the issue has not already been fixed in the latest code (a.k.a. `master`).
 * Be clear, concise, and precise in your description of the problem.
 * Open an issue with a descriptive title and a summary in grammatically correct, complete sentences.
 * Include any relevant code, `xmake.lua` snippets, or agent transcripts in the issue.
@@ -48,7 +48,7 @@ If you want to support Xmake but are unable to contribute code, you can also sup
 ## 问题反馈
 
 * 确认这个问题没有被反馈过。
-* 确认这个问题最近还没有被修复，请先检查 `main` 的最新提交。
+* 确认这个问题最近还没有被修复，请先检查 `master` 的最新提交。
 * 请清晰详细地描述你的问题。
 * 请使用语法正确、完整的句子，开启一个带有描述性标题和摘要的 issue。
 * 如果涉及具体代码、`xmake.lua` 片段或 Agent 对话记录，请一并附上。

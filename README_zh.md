@@ -6,7 +6,7 @@
   <h1>xmake-skills</h1>
 
   <div>
-    <a href="https://github.com/xmake-io/xmake-skills/blob/main/LICENSE.md">
+    <a href="https://github.com/xmake-io/xmake-skills/blob/master/LICENSE.md">
       <img src="https://img.shields.io/github/license/xmake-io/xmake-skills.svg?colorB=f48041&style=flat-square" alt="license" />
     </a>
     <a href="https://discord.gg/xmake">
