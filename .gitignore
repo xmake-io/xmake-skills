@@ -1,0 +1,19 @@
+# MacOS Cache
+.DS_Store
+
+# Xmake cache
+.xmake/
+build/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+tags
+
+# Node
+node_modules/
+
+# ai
+.claude
