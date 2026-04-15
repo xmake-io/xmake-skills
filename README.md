@@ -24,6 +24,8 @@
 
 Each skill packages up focused Xmake know-how — from writing `xmake.lua` to integrating C/C++ packages — so AI agents can produce idiomatic, working Xmake configurations instead of guessing.
 
+See [`skills/`](./skills/) for the full list and layout.
+
 ## Why
 
 Large language models often know *about* Xmake but get the details wrong: outdated APIs, wrong option names, broken package syntax. Skills fix this by loading just the right documentation and examples into the agent's context when it is actually working on Xmake.
