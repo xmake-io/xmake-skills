@@ -1,6 +1,6 @@
 ---
 name: xmake-theme
-description: Use when switching xmake's output theme (colors, progress style, emoji) or fixing garbled/unreadable terminal output — `xmake g --theme=...`. Built-in themes: default, ninja, emoji, dark, light, plain, powershell.
+description: "Use when switching xmake's output theme (colors, progress style, emoji) or fixing garbled/unreadable terminal output — `xmake g --theme=...`. Built-in themes: default, ninja, emoji, dark, light, plain, powershell."
 ---
 
 # Xmake Theme Style
